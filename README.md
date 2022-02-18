@@ -7,6 +7,11 @@ Part of the concurrent computing for robotics course JEMARO February 2022
 ## Cuda installation - Linux
 [Source](https://linuxhandbook.com/setup-opencl-linux-docker/)
 
+### Install Nvidia CUDA Toolkit
+```
+apt-get install nvidia-cuda-toolkit 
+```
+
 ### Install the NVIDIA Container Runtime
 Here, you have to additionally install the nvidia-container-runtime package.
 
